@@ -51,7 +51,7 @@ A browser-based interactive memory game created with jQuery.
 - **[Play Now](https://qwerac388.github.io/sequence-master/)**
 
 - **Preview**
-  ![Sequence Master Game](https://qwerac388.github.io/sequence-master/images/Preview.gif)
+  ![Sequence Master Game](/sequence-master/images/Preview.gif)
 
 ## Currency Converter Chrome Extension
 
