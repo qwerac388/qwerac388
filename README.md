@@ -29,9 +29,12 @@ A React-based web application designed to help users in finding 24-hour emergenc
 - **Preview**
 
 <p align="center">
-  <img src="MediFinder1.gif" alt="A&E Wait Time Page" style="width: 33%;"/>
-  <img src="MediFinder2.gif" alt="Specialist Service Page" style="width: 33%;"/>
-  <img src="MediFinder3.gif" alt="General Service Page" style="width: 33%;"/>
+  <img src="MediFinder1.gif" alt="A&E Wait Time Page" width="400"/>
+  <img src="MediFinder2.gif" alt="Specialist Service Page" width="400"/>
+</p>
+
+<p align="center">
+  <img src="MediFinder3.gif" alt="General Service Page" width="400"/>
 </p>
 
 ## TinCat
