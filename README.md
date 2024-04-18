@@ -29,12 +29,15 @@ A React-based web application designed to help users in finding 24-hour emergenc
 - **Preview**
 
 <p align="center">
-  <img src="MediFinder1.gif" alt="A&E Wait Time Page" width="400"/>
-  <img src="MediFinder2.gif" alt="Specialist Service Page" width="400"/>
+  <img src="MediFinder1.jpg" alt="A&E Wait Time Page" width="400"/>
 </p>
 
 <p align="center">
-  <img src="MediFinder3.gif" alt="General Service Page" width="400"/>
+  <img src="MediFinder2.png" alt="Specialist Service Page" width="400"/>
+</p>
+
+<p align="center">
+  <img src="MediFinder3.png" alt="General Service Page" width="400"/>
 </p>
 
 ## TinCat
@@ -46,7 +49,9 @@ A responsive cat dating web app built with Bootstrap, where local kitties can fi
 - **[Find Your Match Here](https://qwerac388.github.io/TinCat/)**
 
 - **Preview**
-  ![TinCat](/TinCat.gif)
+<p align="center">
+  <img src="TinCat.png" alt="TinCat" width="400"/>
+</p>
 
 ## Sequence Master Game
 
@@ -58,13 +63,13 @@ A browser-based interactive memory game created with jQuery.
 
 - **Preview**
 
-<p align="left">
-  <img src="Game.gif" alt="Sequence Master Game" width="600" />
+<p align="center">
+  <img src="Game.jpg" alt="Sequence Master Game" width="400" />
 </p>
 
 ## Currency Converter Chrome Extension
 
-A Chrome extension leveraging the DOM to seamlessly convert HKD to multiple currencies within the browser, utilizing real-time exchange rates from API.
+A Chrome extension built with Vanilla JS that seamlessly converts HKD to multiple currencies directly within the browser, using real-time exchange rates fetched from an API.
 
 - **[GitHub Repo](https://github.com/qwerac388/hkd-currency-converter)**
 
@@ -72,8 +77,8 @@ A Chrome extension leveraging the DOM to seamlessly convert HKD to multiple curr
 
 - **Preview**
 
-<p align="left">
-  <img src="Currency.gif" alt="Currency Converter Chrome Extension" width="300" />
+<p align="center">
+  <img src="Currency.jpg" alt="Currency Converter Chrome Extension" width="400" />
 </p>
 
 ## Insta Name Generator
@@ -86,8 +91,8 @@ A web app hosted on Heroku for generating unique Instagram usernames, built with
 
 - **Preview**
 
-<p align="left">
-  <img src="Insta-Name.gif" alt="Insta Name Generator" width="300" />
+<p align="center">
+  <img src="Insta-Name.jpg" alt="Insta Name Generator" width="400" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
